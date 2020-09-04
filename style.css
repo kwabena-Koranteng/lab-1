@@ -1,0 +1,20 @@
+.nav-menu{
+	list-style-type:none; 
+	margin:0; 
+	padding:0;
+	overflow:hidden; 
+	background-color:white";
+	
+}
+
+.nav-menu li:hover{
+	background-color:LightGray;
+}
+
+li a:hover:not(.active) {
+	background-color: LightGray;
+}
+
+.active{
+	background-color:purple;
+}
