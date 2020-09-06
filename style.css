@@ -5,6 +5,7 @@
 	overflow:hidden; 
 	background-color:#252525;
 	
+	
 }
 
 .nav-menu li:hover{
@@ -13,15 +14,17 @@
 
 li a:hover:not(.active) {
 	background-color: #605A2E;
-	transition-duration: 0.4s;
+	 transition-duration: 0.4s;
 	cursor: pointer;
 }
+
 
 .active{
 	border-bottom:3px solid #DBCC52 ;
 	transition-duration: 0.4s;
 	cursor: pointer;
 }
+
 .item{
   width:200px;
   display:block;
@@ -74,18 +77,20 @@ li a:hover:not(.active) {
 
 .button1 {
   background-color: #29282C; 
-  color: black; 
+  color: #DBCC52; 
   border: 2px solid #605A2E;
+  
 }
 
 .button1:hover {
   background-color: #605A2E;
   color: white;
+  
 }
 
 .button2 {
   background-color: #29282C; 
-  color: black; 
+  color: #DBCC52; 
   border: 2px solid #605A2E;
 }
 
