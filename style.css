@@ -109,7 +109,7 @@ li a:hover:not(.active) {
 }
 
 .align-items-center {
-  align-items: center !important;
+  align-items: center;
 }
   .col-md-6 {
     flex: 0 0 50%;
