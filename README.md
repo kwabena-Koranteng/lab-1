@@ -10,4 +10,4 @@ This repository contains a single file, a script for gathering the basic configu
 
 Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
 
-Name : kwabena Koranteng Obeng
+Link to the website: https://kwabena-koranteng.github.io/lab-1/
